@@ -1,4 +1,4 @@
-# Wait-Free disjoint set
+# Wait-Free Disjoint Set
 C implementation of a [wait-free](https://en.wikipedia.org/wiki/Non-blocking_algorithm#Wait-freedom) [disjoint-set data structure](https://en.wikipedia.org/wiki/Disjoint-set_data_structure) (aka Union-Find)
 
 Based on paper by Jayanti and Tarjan:
